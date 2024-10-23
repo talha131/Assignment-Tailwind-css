@@ -5,6 +5,7 @@ import Layout from '../components/Layout';
 const Home = () => {
   return (
     <Layout>
+      <p>Demo for Diya</p>
       <div className="relative bg-gradient-to-r from-yellow-400 via-red-400 to-pink-500 min-h-screen flex items-center justify-center text-center">
         <h1 className="text-6xl font-extrabold text-white mb-4 drop-shadow-md">
           Welcome to My Website
